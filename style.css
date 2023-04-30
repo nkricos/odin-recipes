@@ -1,0 +1,13 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+img {
+    height: auto;
+    width: 250px;
+}
+
+h1 {
+    background-color: rgb(56, 139, 187);
+    color: rgb(245, 241, 241);
+}
